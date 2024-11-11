@@ -61,4 +61,4 @@ The experimentation code includes:
 This project is licensed under the **GNU Affero General Public License v3.0**. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-Special thanks to **Ms. Sumayya Zahid**.
+Special thanks to **Ms. Sumayya Zahid** and my team mates **Kainat Afzal** and **Arsalan Zubair** for wholeheartedly supporting me and playing a vital role in preparing litratre review and presentations. May all of us succeed in the future, Ameen.
