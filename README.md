@@ -1,33 +1,32 @@
-### A Framework for Reverse Vector Dynamics in a Dimensionless Hilbert Space: Exploring the Origins and Infinity of Universes
+# A Framework for Reverse Vector Dynamics in a Dimensionless Hilbert Space: Exploring the Origins and Infinity of Universes
 
 ## Authors
-## - Hamza Khan (Primary Author)  
-- Kainat Afzal  
-- Arsalan Zubair  
-## - Sumayya Zahid (Supervisor)
+- **Hamza Khan**
 
-Table of Contents
-1. [Project Description]
-2. [Methodology]
-3. [Getting Started]
-4. [Installation]
-5. [Usage]
-6. [Experimentation]
-7. [Results and Discussion]
-8. [Contributing]
-9. [License]
-10. [Acknowledgments]
+## Table of Contents
+- [Project Description](#project-description)
+- [Methodology](#methodology)
+- [Getting Started](#getting-started)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Experimentation](#experimentation)
+- [Results and Discussion](#results-and-discussion)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ## Project Description
-This repository provides the code, documentation, and experiments for the paper titled **"A Framework for Reverse Vector Dynamics in a Dimensionless Hilbert Space"**. The research proposes a new theoretical framework, the **Reverse Vector Dimensionless Hilbert Space (RVDH)**, to conceptualize the universe's origin and explore multidimensional existence. The model introduces **Dimensional Entropy (\(\Lambda\))** as a scalar representing dimensional evolution and transition. By incorporating chaos theory, the framework simulates expansion and collapse dynamics within a quantum Hilbert space.
+This repository provides the code, documentation, and experimental data for the paper titled **"A Framework for Reverse Vector Dynamics in a Dimensionless Hilbert Space"**. The research introduces the **Reverse Vector Dimensionless Hilbert Space (RVDH)** framework, exploring the origins of the universe and multidimensional transitions. The model introduces **Dimensional Entropy (Λ)** as a scalar to represent dimensional evolution and transition. By incorporating chaos theory, the framework simulates both expansion and collapse dynamics within a quantum Hilbert space.
+![Hamza's First Illustration](https://github.com/user-attachments/assets/99e1c498-a7f1-4c62-935e-8748da533850)
+
 
 ## Methodology
-Our approach uses quantum computing (Cirq) to simulate the evolution of entangled qubits within the RVDH framework, with entropy serving as an indicator of dimensional transitions. The entangled states are represented by linked qubits, with changes in their states visualized as either expansion or collapse. The entropy patterns during these transitions provide insight into the chaotic nature of dimensional evolution.
+Our approach leverages quantum computing (via Cirq) to simulate the evolution of entangled qubits in the RVDH framework, with entropy as a marker for dimensional transitions. Linked qubits represent entangled states, with state changes visualized as either expansion or collapse. The patterns in entropy during these transitions provide insight into the chaotic nature of dimensional evolution.
 
 ### Key Steps in the Methodology:
-1. **Dimensional Expansion and Regression**: Simulating qubit entanglement dynamics as dimensional growth (expansion) and reduction (collapse).
-2. **Entropy Calculation**: Calculating entropy at each stage to observe oscillatory behavior as \(\Lambda\) changes.
-3. **Chaotic Dynamics**: Examining chaotic patterns in entropy as a function of dimensional transitions.
+1. **Dimensional Expansion and Regression**: Simulating qubit entanglement dynamics to reflect dimensional growth (expansion) and reduction (collapse).
+2. **Entropy Calculation**: Calculating entropy at each stage to observe oscillatory behavior as (Λ) changes.
+3. **Chaotic Dynamics**: Analyzing chaotic patterns in entropy relative to dimensional transitions.
 
 ## Getting Started
 
@@ -35,26 +34,30 @@ Our approach uses quantum computing (Cirq) to simulate the evolution of entangle
 - **Python** 3.8+
 - **Cirq** (for quantum computing simulation)
 - **Matplotlib** (for data visualization)
-  
+
 ### Recommended Skills
-- Basic understanding of quantum computing
-- Familiarity with Python programming
-- Basic knowledge of Hilbert space and chaos theory
+- Basic knowledge of quantum computing
+- Familiarity with Python
+- Understanding of Hilbert space and chaos theory
 
 ## Experimentation
 The experimentation code includes:
-- **Entropy Measurement during Expansion**: Entropy is measured and recorded in each quantum state iteration.
-- **Entropy Measurement during Collapse**: Entropy is calculated as qubit states revert, simulating dimensional collapse.
-  
-To adjust experiment parameters like the number of qubits or steps in \(\Lambda\), edit the `config.json` file in the root directory.
+- **Entropy Measurement in Expansion**: Entropy is recorded for each quantum state iteration to observe dimensional growth.
+- **Entropy Measurement in Collapse**: Entropy is calculated as qubits return to initial states, simulating collapse.
 
 ## Results and Discussion
+
 ### Key Findings
-1. **Dimensional Expansion and Regression**: The entropy values correlate with expansion and collapse phases.
-2. **Chaotic Entropy Patterns**: A periodic, oscillatory pattern in entropy indicates chaotic dynamics and suggests a non-monotonic behavior in dimensional transitions.
-3. **Entanglement’s Role**: Entanglement increases entropy, indicating complex multidimensional evolution.
+1. **Dimensional Expansion and Regression**: Entropy changes correlate with expansion and collapse phases, reflecting dimensional dynamics.
+2. **Chaotic Entropy Patterns**: Oscillatory patterns in entropy highlight chaotic behavior and non-monotonic dimensional transitions.
+3. **Role of Entanglement**: Increasing entropy in entangled states suggests complex multidimensional evolution.
 
-For detailed results, refer to the **Results** and **Discussion** sections in the paper.
+### Visual Results
+![Oscillatory Entropy Behavior During Dimensional Evolution](https://github.com/user-attachments/assets/a4475f47-22f0-47aa-8c3d-b124cce2dda5)
 
-## Contributing
-We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for details on our code of conduct, and the process for submitting pull requests.
+
+## License
+This project is licensed under the **GNU Affero General Public License v3.0**. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+Special thanks to **Ms. Sumayya Zahid**.
