@@ -17,6 +17,7 @@
 
 ## Project Description
 This repository provides the code, documentation, and experimental data for the paper titled **"A Framework for Reverse Vector Dynamics in a Dimensionless Hilbert Space"**. The research introduces the **Reverse Vector Dimensionless Hilbert Space (RVDH)** framework, exploring the origins of the universe and multidimensional transitions. The model introduces **Dimensional Entropy (Λ)** as a scalar to represent dimensional evolution and transition. By incorporating chaos theory, the framework simulates both expansion and collapse dynamics within a quantum Hilbert space.
+
 ![Hamza's First Illustration](https://github.com/user-attachments/assets/99e1c498-a7f1-4c62-935e-8748da533850)
 
 
